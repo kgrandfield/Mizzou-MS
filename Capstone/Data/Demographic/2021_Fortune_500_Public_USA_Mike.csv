@@ -1,0 +1,470 @@
+﻿Stock_ID,Company_Name,Fortune_500_Rank,Primary_Industry,City,State,County,Number_of_Employees,Indeed_Score,Glassdoor_Score
+WMT,Walmart,1,Retail,Bentonville,Arkansas,Benton County,2200000,3.5,3.3
+AMZN,Amazon,2,Software,Seattle,Washington,King County,1298000,3.5,3.8
+AAPL,Apple,3,Hardware,Cupertino,California,Santa Clara County,147000,4.2,4.2
+CVS,CVS Health,4,Retail,Woonsocket,Rhode Island,Providence County,300000,3.2,3
+UNH,UnitedHealth Group,5,Healthcare,Minnetonka,Minnesota,Hennepin County,330000,3.6,3.6
+BRK.A,Berkshire Hathaway,6,Conglomerate,Omaha,Nebraska,Douglas County,360000,4,4
+MCK,McKesson,7,Healthcare,Irving,Texas,Dallas County,80000,3.5,3.8
+ABC,AmerisourceBergen,8,Pharmaceutical,Chesterbrook,Pennsylvania,Chester County,22000,3.4,3.7
+GOOGL,Alphabet,9,Software,Mountain View,California,Santa Clara County,135301,3.9,4.1
+XOM,ExxonMobil,10,Energy,Irving,Texas,Dallas County,72000,3.9,3.1
+T,AT&T,11,Telecommunications,Dallas ,Texas,Dallas County,230000,3.7,3.7
+COST,Costgo Wholesale,12,Retail,Issaquah,Washington,King County,273000,4.1,4.1
+CI,Cigna,13,Insurance,Bloomfield,Connecticut,Hartford County,73700,3.7,3.8
+CAH,Cardinal Health,14,Healthcare,Dublin,Ohio,Franklin County,30000,3.5,3.8
+MSFT,Microsoft,15,Software,Redmond,Washington,King County,190000,4.2,4.4
+WBA,Walgreens,16,Retail,Deerfield,Illinois,Lake County,225000,3.5,3.1
+KR,Kroger,17,Retail,Cincinnati,Ohio,Hamilton County,465000,3.4,3.1
+HD,Home Depot,18,Retail,Atlanta,Georgia,Cobb County,415000,3.7,3.8
+JPM,JP Morgan Chase,19,Financial Services,New York City,New York,New York County,255351,3.9,4
+VZ,Verizon Communications,20,Telecommunications,New York City,New York,New York County,132200,3.9,3.8
+F,Ford,21,Automotive,Dearborn,Michigan,Wayne County,186000,4.1,4.1
+GM,General Motors,22,Automotive,Detroit,Michigan,Wayne County,155000,4,4
+ANTM,Anthem,23,Insurance,Indianapolis,Indiana,Marion County,63900,3.7,3.7
+CNC,Centene,24,Insurance,St. Louis,Missouri,St. Louis County,71300,3.2,3.4
+FNMA,Fannie Mae,25,Financial Services,Washington,District of Columbia,District of Columbia,7500,4,3.9
+CMCSA,Comcast,26,Telecommunications,Philadelphia,Pennsylvania,Philadelphia County,190000,3.7,3.9
+CVX,Chevron,27,Energy,San Ramon,California,Contra Costa County,42628,4,4.1
+DELL,Dell Technologies,28,Hardware,Round Rock,Texas,Williamson County,165000,4,4.3
+BAC,Bank of America,29,Financial Services,Charlotte,North Carolina,Mecklenburg County,171651,3.8,4
+TGT,Target,30,Retail,Minneapolis,Minnesota,Hennepin County,409000,3.6,3.7
+LOW,Lowe's,31,Retail,Mooresville,North Carolina,Iredell County,220000,3.5,3.4
+MPC,Marathon Petroleum,32,Energy,Findlay ,Ohio,Hancock County,57900,3.5,3.7
+C,Citigroup,33,Financial Services,New York City,New York,New York County,210000,3.9,3.9
+FB,Meta Platforms,34,Software,Menlo Park,California,San Mateo County,58604,4.1,4.3
+UPS,UPS,35,Transportation,Sandy Springs,Georgia,Fulton County,543000,3.7,3.5
+JNJ,Johnson & Johnson,36,Pharmaceutical,New Brunswick,New Jersey,Middlesex County,134500,4.2,4.2
+WFC,Wells Fargo,37,Financial Services,San Francisco,California,San Francisco County,268530,3.6,3.7
+GE ,General Electric,38,Conglomerate,Boston ,Massachusetts,Suffolk County,174000,4,4
+INTC,Intel,40,Hardware,San Francisco,California,San Francisco County,110600,4.1,4.2
+HUM,Humana,41,Healthcare,Louisville,Kentucky,Jefferson County,48700,3.7,4
+IBM,IBM,42,Software,Armonk,New York,Westchester County,346000,3.9,4
+PG,Procter & Gamble,43,Consumer Goods,Cincinnati,Ohio,Hamilton County,101000,4.1,4.2
+PEP,PepsiCo,44,Food,Harrison,New York,Westchester County,291000,3.8,3.9
+FDX,FedEx,45,Transportation,Memphis ,Tennessee,Shelby County,245000,3.8,3.7
+MET,MetLife,46,Insurance,New York City,New York,New York County,46500,3.8,3.9
+FMCC,Freddie Mac,47,Financial Services,Tysons Corner,Virginia,Fairfax County,7000,3.8,4
+PSX,Phillips 66,48,Energy,Houston,Texas,Harris County,14300,3.7,3.8
+LMT,Lockheed Martin,49,Aerospace,Bethesda,Maryland,Montgomery County,114000,4,4.1
+DIS,The Walt Disney Company,50,Entertainment,Burbank ,California,Los Angeles County,223000,4.2,4
+ADM,Archer Daniels Midland,51,Food,Chicago,Illinois,Cook County,38100,3.6,3.9
+ACI,Albertsons,52,Retail,Boise,Idaho,Ada County,300000,3.7,3.4
+VLO,Valero Energy,53,Energy,San Antonio,Texas,Bexar County,10000,3.7,3.9
+BAC,Boeing,54,Aerospace,Chicago,Illinois,Cook County,141000,3.9,3.8
+HPQ,HP,56,Hardware,Palo Alto,California,Santa Clara County,53000,4,4.2
+RTX,Raytheon Technologies,57,Aerospace,Waltham,Massachusetts,Middlesex County,180000,3.9,3.8
+SNEX,StoneX,58,Financial Services,New York City,New York,New York County,3000,3.4,4.1
+GS,Goldman Sachs Group,59,Financial Services,New York City,New York,New York County,40500,4,4
+SYY,Sysco,60,Retail,Houston,Texas,Harris County,57000,3.4,3.4
+MS,Morgan Stanley,61,Financial Services,New York City,New York,New York County,68097,3.8,4
+HCA,HCA Healthcare,62,Healthcare,Nashville,Tennessee,Davidson County,235000,3.5,3.5
+CSCO,Cisco Systems,63,Hardware,San Jose ,California,Santa Clara County,77500,4.1,4.3
+CHTR,Charter Communications,64,Telecommunications,Stamford,Connecticut,Fairfield County,96100,2.9,3.4
+MRK,Merck,65,Pharmaceutical,Kenilworth,New Jersey,Union County,74000,4.1,4.2
+BBY,Best Buy,66,Retail,Richfield,Minnesota,Hennepin County,125000,3.8,3.7
+ABBV,Abbvie,68,Pharmaceutical,Lake Bluff,Illinois,Lake County,47000,4,3.9
+ALL,Allstate,70,Insurance,Northbrook,Illinois,Cook County,42160,3.7,3.5
+AIG,American International Group,72,Financial Services,New York City,New York,New York County,49600,3.7,3.7
+TSN,Tyson Foods,73,Food,Springdale,Arkansas,Washington County,139000,3.7,3.6
+PGR,Progressive,74,Insurance,Mayfield Village,Ohio,Cuyahoga County,43326,3.7,3.8
+BMY,Bristol-Myers Squibb,75,Pharmaceutical,New York City,New York,New York County,30000,4.2,3.9
+PFE,Pfizer,77,Pharmaceutical,New York City,New York,New York County,78500,4.2,4.2
+CAT,Caterpillar,78,Equipment,Deerfield,Illinois,Lake County,97300,3.8,4
+ORCL,Oracle,80,Software,Austin,Texas,Travis County,135000,3.8,3.8
+ET,Energy Transfer,81,Energy,Dallas ,Texas,Dallas County,11421,3.6,3.7
+DOW,Dow,82,Chemicals,Midland,Michigan,Midland County,35700,3.9,4.1
+AXP,American Express,83,Financial Services,New York City,New York,New York County,63700,4.1,4.2
+GD,General Dynamics,84,Aerospace,Reston,Virginia,Fairfax County,104000,3.8,3.8
+NKE,Nike,85,Apparel,Beaverton ,Oregon,Washington County,75400,4.1,4.1
+NOC,Northrop Grumman,86,Aerospace,West Falls Church,Virginia,Fairfax County,97000,4,4
+DE,Deere,88,Equipment,Moline,Illinois,Rock Island County,69634,4,4
+ABT,Abbott Laboratories,89,Healthcare,Chicago,Illinois,Cook County,109000,4,3.9
+DG,Dollar General,91,Retail,Goodlettsville,Tennessee,Davidson County,158000,3.1,2.8
+EXC,Exelon,92,Energy,Chicago,Illinois,Cook County,32340,3.9,3.9
+KO,Coca-Cola,93,Food,Atlanta,Georgia,Cobb County,80300,3.9,4
+HON,Honeywell International,94,Conglomerate,Charlotte,North Carolina,Mecklenburg County,103000,3.7,3.8
+TMO,Thermo Fisher Scientific,95,Biotechnology,Waltham,Massachusetts,Middlesex County,125000,3.5,3.8
+MMM,3M,96,Conglomerate,Maplewood,Minnesota,Ramsey County,95000,3.9,3.9
+TJX,TJX,97,Retail,Framingham,Massachusetts,Middlesex County,286000,3.7,3.7
+TRV,Travelers Cos.,98,Insurance,New York City,New York,New York County,30600,3.7,3.9
+COF,Capital One Financial,99,Financial Services,McLean,Virginia,Fairfax County,52000,3.9,4.2
+TSLA,Tesla,100,Automotive,Austin,Texas,Travis County,70757,3.4,3.7
+PM,Philip Morris International,101,Food,Stamford,Connecticut,Fairfield County,71000,4.2,4
+ARW,Arrow Electronics,102,Electronics,Centennial,Colorado,Arapahoe County,19600,3.5,3.3
+CHSCP,CHS,103,Agriculture,Inver Grove Heights,Minnesota,Dakota County,10000,3.5,3.8
+JBL,Jabil,104,Electronics,St. Petersburg,Florida,Pinellas County,240000,3.9,3.8
+EPD,Enterprise Products Partners,105,Energy,Houston,Texas,Harris County,7000,3.7,4
+HPQ,Hewlett Packard Enterprise,106,Hardware,Palo Alto,California,Santa Clara County,53000,3.8,4.1
+UNFI,United Natural Foods,107,Food,Providence,Rhode Island,Providence County,28300,2.9,3.2
+MDLZ,Mondelez International,108,Food,Chicago,Illinois,Cook County,80000,4,3.9
+VIACA,ViacomCBS,109,Entertainment,Manhattan,New York,New York County,22109,3.9,3.8
+KHC,Kraft-Heinz,110,Food,Chicago,Illinois,Cook County,38757,3.5,3.4
+DLTR,Dollar Tree,111,Retail,Chesapeake,Virginia,Chesapeake city,119100,3.3,3.1
+AMGN,Amgen,112,Biotechnology,Thousand Oaks,California,Ventura County,22000,4,4.1
+USB,US Bancorp,113,Financial Services,Minneapolis,Minnesota,Hennepin County,68108,3.6,3.7
+PFGC,Performance Food Group,114,Food,Richmond,Virginia,Henrico County,20000,3,3.3
+NFLX,Netflix,115,Entertainment,Los Gatos ,California,Santa Clara County,9400,3.9,4.3
+GILD,Gilead Sciences,116,Pharmaceutical,Foster City,California,San Mateo County,12000,3.6,3.7
+SNX,TD Synnex,117,IT Services,Fremont,California,Alameda County,22000,3.5,3.8
+LLY,Eli Lilly,118,Pharmaceutical,Indianapolis,Indiana,Marion County,34000,4.1,4.1
+TFC,Truist Financial,119,Financial Services,Charlotte,North Carolina,Mecklenburg County,55000,3.6,3.5
+PNC,PNC Financial Services Group,120,Financial Services,Pittsburgh,Pennsylvania,Allegheny County,62000,3.6,3.7
+AVGO,Broadcom,121,Software,San Jose ,California,Santa Clara County,21000,3.8,3.4
+CBRE,CBRE Group,122,Real Estate,Dallas ,Texas,Dallas County,100000,3.7,3.9
+QCOM,Qualcomm,124,Telecommunications,San Diego,California,San Diego County,41000,4.1,4.1
+SBUX,Starbucks,125,Food,Seattle,Washington,King County,349000,4,3.8
+DUK,Duke Energy,126,Energy,Charlotte,North Carolina,Mecklenburg County,27535,3.9,4
+PAA,Plains GP Holdings,127,Energy,Houston,Texas,Harris County,4000,3.8,3.9
+USFD,US Foods Holding,128,Food,Rosemont,Illinois,Cook County,25000,3.4,3.4
+LEN,Lennar,129,Construction,Fontainebleau,Florida,Miami-Dade County,10000,3.6,3.8
+DHR,Danaher,130,Conglomerate,Washington,District of Columbia,District of Columbia,80000,3.7,4.2
+AFL,Aflac,131,Insurance,Columbus,Georgia,Muscogee County,12000,3.5,3.8
+RAD,Rite Aid,132,Retail,Camp Hill,Pennsylvania,Cumberland County,50000,3.5,3.1
+V,Visa,133,Financial Services,Foster City,California,San Mateo County,20500,3.9,4
+PYPL,PayPal Holdings,134,Financial Services,San Jose ,California,Santa Clara County,26500,3.9,4.1
+MU,Micron Technology,135,Hardware,Boise,Idaho,Ada County,40000,3.7,3.8
+KMX,CarMax,136,Car Rental,Richmond,Virginia,Henrico County,27000,3.6,3.7
+CRM,Salesforce,137,Software,San Francisco,California,San Francisco County,56606,4.3,4.5
+MO,Altria Group,138,Food,Richmond,Virginia,Henrico County,8300,4.1,3.9
+LUMN,Lumen Technologies,139,Telecommunications,Monroe,Louisiana,Ouachita Parish,42500,3.5,3.3
+BKR,Baker Hughes,140,Energy,Houston,Texas,Harris County,55000,4,3.8
+IP,International Paper,141,Paper,Memphis ,Tennessee,Shelby County,49300,3.6,3.7
+HIG,Hartford Financial Services Group,142,Insurance,Hartford,Connecticut,Hartford County,19500,3.6,4
+PAG,Penske Automotive Group,143,Automotive,Bloomfield Hills ,Michigan,Oakland County,27000,3.7,4.3
+DD,Dupont,144,Chemicals,Wilmington,Delaware,New Castle County,34000,4,3.9
+AN,AutoNation,145,Car Dealearship,Fort Lauderdale,Florida,Broward County,21000,3.4,3.5
+SO,Southern Company,146,Energy,Atlanta,Georgia,Cobb County,29000,4,4.2
+INT,World Fuel Services,147,Energy,Doral,Florida,Miami-Dade County,5000,3.3,3.4
+DHI,DR Horton,148,Home Construction,Arlington,Texas,Tarrant County,8000,3.4,3.8
+NUE,Nucor,149,Steel,Charlotte,North Carolina,Mecklenburg County,26000,3.9,3.9
+CMI,Cummins,150,Equipment,Columbus,Indiana,Bartholomew County,57825,3.9,4.1
+DXC,DXC Technology,152,IT Services,Ashburn,Virginia,Loudoun County,138000,3.1,3.4
+UNP,Union Pacific,153,Transportation,Omaha,Nebraska,Douglas County,31000,2.8,2.1
+WHR,Whirlpool,154,Home Appliances,Benton Harbour,Michigan,Berrien County,78000,3.9,4
+MOH,Molina Healthcare,155,Healthcare,Long Beach,California,Los Angeles County,10500,3.3,3.5
+COP,ConocoPhillips,156,Energy,Houston,Texas,Harris County,10400,4.1,4
+MCD,McDonald's,157,Food,Chicago,Illinois,Cook County,200000,3.5,3.5
+KMB,Kimberly-Clark,158,Consumer Goods,Irving,Texas,Dallas County,40000,4,4
+PCAR,Paccar,159,Automotive,Bellevue,Washington,King County,27000,3.6,3.1
+PCG,PG&E,160,Energy,San Francisco,California,San Francisco County,24000,3.8,3.8
+CDW,CDW,161,IT Services,Lincolnshire,Illinois,Lake County,11098,3.7,4.1
+SHW,Sherwin-Williams,162,Chemicals,Cleveland,Ohio,Cuyahoga County,61031,3.8,3.8
+LHX,L3Harris Technologies,163,Aerospace,Melbourne,Florida,Brevard County,50000,3.7,3.6
+M,Macy's,164,Retail,New York City,New York,New York County,130000,3.6,3.4
+MAN,ManpowerGroup,165,Professional Services,Milwaukee,Wisconsin,Milwaukee County,30000,3.8,3.9
+NEE,NextEra Energy,166,Energy,Juno Beach,Florida,Palm Beach County,14800,3.9,3.8
+THC,Tenet Healthcare,167,Healthcare,Dallas ,Texas,Dallas County,102000,3.7,3.1
+AVT,Avnet,168,Hardware,Phoenix,Arizona,Maricopa County,15500,3.8,4
+GIS,General Mills,169,Food,Minneapolis,Minnesota,Hennepin County,35000,3.9,4.1
+WRK,WestRock,170,Packaging,Sandy Springs,Georgia,Fulton County,51100,3.1,3.4
+CARR,Carrier Global,171,Home Appliances,Palm Beach Gardens,Florida,Palm Beach County,56000,3.9,3.6
+LNC,Lincoln National,172,Insurance,Radnor,Pennsylvania,Delaware County,9047,3.6,3.6
+GPC,Genuine Parts,173,Automotive Distribution,Atlanta,Georgia,Cobb County,48001,3.4,3.6
+AAL,American Airlines Group,174,Aviation,Fort Worth,Texas,Tarrant County,133700,4,3.9
+MMC,Marsh & McLennan,175,Professional Services,New York City,New York,New York County,81000,3.7,4
+AMAT,Applied Materials,176,Hardware,Santa Clara,California,Santa Clara County,24000,3.9,4
+BDX,Becton Dickinson,177,Biotechnology,Franklin Lakes,New Jersey,Bergen County,76032,3.8,3.9
+DAL,Delta Air Lines,178,Aviation,Atlanta,Georgia,Cobb County,91000,3.9,4.4
+LEA,Lear,179,Manufacturing,Southfield,Michigan,Oakland County,174600,3.8,3.8
+BK,Bank of New York Mellon,180,Financial Services,Manhattan,New York,New York County,48400,3.5,3.6
+EMR,Emerson Electric,181,Equipment,Ferguson,Missouri,St. Louis County,83500,3.8,3.8
+WDC,Western Digital,182,Hardware,San Jose ,California,Santa Clara County,63800,3.8,3.9
+OXY,Occidental Petroleum,183,Energy,Houston,Texas,Harris County,11800,4,3.8
+NVDA,Nvidia,184,Hardware,Santa Clara,California,Santa Clara County,18100,4.2,4.7
+CTSH,Cognizant Technology Solutions,185,IT Services,Teaneck,New Jersey,Bergen County,318400,3.9,3.8
+JLL,Jones Lang LaSalle,186,Real Estate,Chicago,Illinois,Cook County,91000,3.7,3.9
+SYF,Synchrony Financial,187,Financial Services,Stamford,Connecticut,Fairfield County,16500,3.9,4.2
+CL,Colgate-Palmolive,188,Consumer Goods,New York City,New York,New York County,34500,4.3,4.3
+ACM,AECOM,189,Professional Services,Dallas ,Texas,Dallas County,51000,3.7,3.7
+XPO,XPO Logistics,190,Transportation,Greenwich,Connecticut,Fairfield County,44000,3.2,3.6
+CHRW,CH Robinson Worldwide,191,Transportation,Eden Prairie,Minnesota,Hennepin County,15262,3.4,3.6
+BLK,BlackRock,192,Investment Management,New York City,New York,New York County,16500,3.8,4.1
+D,Dominion Energy,193,Energy,Richmond,Virginia,Henrico County,21000,4,4.1
+RKT,Rocket Companies,194,Financial Services,Detroit,Michigan,Wayne County,24000,3.7,3.7
+KSS,Kohl's,195,Retail,Menomonee Falls,Wisconsin,Waukesha County,110000,3.7,3.4
+FLR,Fluor,196,Construction,Grapevine,Texas,Tarrant County,53349,4.1,3.9
+DISH,DISH Network,197,Telecommunications,Englewood,Colorado,Arapahoe County,16000,3.2,3.1
+BJ,BJ's Wholesale Club,198,Retail,Westborough,Massachusetts,Worcester County,25000,3.3,3.1
+TEN,Tenneco,199,Automotive,Lake Forest,Illinois,Lake County,78000,3.5,3.2
+UAL,United Airlines Holdings,200,Aviation,Chicago,Illinois,Cook County,93000,4,4.1
+MA,Mastercard,201,Financial Services,Purchase,New York,Westchester County,21000,4.1,4.2
+WM,"Waste Management, Inc.",202,Waste Management,Chicago,Illinois,Cook County,42300,3.4,3.6
+PBF,PBF Energy,203,Energy,Parsippany,New Jersey,Morris County,3442,3.6,3.8
+AEP,American Electric Power,204,Energy,Columbus,Ohio,Franklin County,16800,4,3.8
+FISV,Fiserv,205,Financial Services,Brookfield ,Wisconsin,Waukesha County,44000,3.4,3.3
+PFG,Principal Financial,206,Financial Services,Des Moines,Iowa,Polk County,17600,3.9,4
+RGA,Reinsurance Group of America,207,Reinsurance,Chesterfield,Missouri,St. Louis County,2640,4.2,4.3
+ADP,Automatic Data Processing,208,Professional Services,Roseland,New Jersey,Essex County,58000,4,4
+SWK,Stanley Black & Decker,209,Industrial Tools,New Britain,Connecticut,Hartford County,60767,3.5,3.7
+TXN,Texas Instruments,210,Hardware,Dallas ,Texas,Dallas County,29888,4.1,4.2
+HAL,Halliburton,211,Energy,Houston,Texas,Harris County,55000,3.9,3.6
+SYK,Stryker,212,Biotechnology,Kalamazoo,Michigan,Kalamazoo County,43000,3.9,4.2
+EL,Estee Lauder Companies,213,Consumer Goods,New York City,New York,New York County,48000,4.1,4
+CTVA,Corteva,214,Chemicals,Indianapolis,Indiana,Marion County,21000,3.6,4
+FCX,Freeport-McMoRan,215,Metals,Phoenix,Arizona,Maricopa County,28000,4,4
+QRTEA,Qurate Retail,216,Entertainment,Castle Rock,Colorado,Douglas County,28255,3.1,3.9
+W,Wayfair,217,Ecommerce,Boston ,Massachusetts,Suffolk County,16900,3,3.4
+LH,Laboratory Corp. of America,218,Healthcare,Burlington,North Carolina,Alamance County,72000,3.5,3.8
+PPG,PPG Industries,220,Chemicals,Pittsburgh,Pennsylvania,Allegheny County,47300,3.4,3.4
+GPS,Gap,221,Retail,San Francisco,California,San Francisco County,117000,3.8,3.7
+K,Kellogg,222,Food,Battle Creek,Michigan,Calhoun County,34000,3.6,3.7
+PH,Parker-Hannifin,223,Materials,Mayfield Heights,Ohio,Cuyahoga County,50520,3.7,3.6
+J,Jacobs,225,Construction,Dallas ,Texas,Dallas County,55000,3.9,3.8
+EIX,Edison International,226,Energy,Rosemead,California,Los Angeles County,12521,4.1,3.7
+BIIB,Biogen,228,Biotechnology,Cambridge,Massachusetts,Middlesex County,9100,4,4.1
+OMC,Omnicom Group,229,Advertising,New York City,New York,New York County,64100,3.8,3.8
+UNM,Unum Group,230,Insurance,Chattanooga,Tennessee,Hamilton County,10700,3.5,3.6
+LAD,Lithia Motors,231,Automotive Retailer,Medford,Oregon,Jackson County,14538,3.1,3.7
+DFS,Discover Financial Services,233,Financial Services,Riverwoods,Illinois,Lake County,17600,3.8,3.9
+ADBE,Adobe,234,Software,San Jose ,California,Santa Clara County,24000,4.3,4.4
+ARMK,Aramark,235,Food,Philadelphia,Pennsylvania,Philadelphia County,215000,3.5,3.4
+OTIS,Otis Worldwide,236,Trasport Systems Equipment,Farmington,Connecticut,Hartford County,69000,3.9,3.7
+ECL,Ecolab,237,Chemicals,St. Paul,Minnesota,Ramsey County,50000,3.5,3.6
+AZO ,AutoZone,238,Retail,Memphis ,Tennessee,Shelby County,87000,3.5,3.4
+L,Loews,239,Conglomerate,New York City,New York,New York County,18100,4,4
+ITW,Illinois Tool Works,240,Manufacturing,Glenview,Illinois,Cook County,43000,3.5,3.8
+FIS,Fidelity National Information Services,241,Financial Services,Jacksonville,Florida,Duval County,70000,4,3.8
+ROST,Ross Stores,242,Retail,Dublin,California,Alameda County,88100,3.4,3.3
+EQH,Equitable Holdings,244,Financial Services,New York City,New York,New York County,4100,3.3,3.8
+WCC,WESCO International,245,Maintenance,Pittsburgh,Pennsylvania,Allegheny County,18000,3.3,3.2
+GT,Goodyear,246,Automotive,Akron,Ohio,Summit County,72000,3.7,3.7
+FOXA,Fox,247,Media,New York City,New York,New York County,9000,4,3.9
+LDOS,Leidos Holdings,248,Aerospace,Reston,Virginia,Fairfax County,42000,3.7,3.9
+ED,Consolidated Edison,249,Energy,Manhattan,New York,New York County,14071,4.1,4.1
+DTE,DTE Energy,250,Energy,Detroit,Michigan,Wayne County,10600,3.9,4.1
+SCHW,Charles Schwab,251,Financial Services,Westlake,Texas,Tarrant County,32000,3.9,4
+STT,State Street,252,Financial Services,Boston ,Massachusetts,Suffolk County,39439,3.5,3.4
+AMP,Ameriprise Financial,253,Financial Services,Minneapolis,Minnesota,Hennepin County,12300,3.8,3.8
+VTRS,Viatris,254,Pharmaceutical,Canonsburg,Pennsylvania,Washington County,45000,3.1,3.3
+SRE,Sempra,255,Energy,San Diego,California,San Diego County,20000,4,4.4
+BBWI,Bath & Body Works,257,Retail,Columbus,Ohio,Franklin County,94400,3.8,3.9
+CYH,Community Health Systems,259,Healthcare,Franklin,Tennessee,Williamson County,120000,3.2,3.3
+BLL,Ball,260,Packaging,Broomfield ,Colorado,Broomfield County,18300,3.6,3.8
+BERY,Berry Global Group,261,Materials,Evansville,Indiana,Vanderburgh County,48000,3.3,3.5
+KMI,Kinder Morgan,262,Energy,Houston,Texas,Harris County,11012,3.5,3.8
+VFC,VF,263,Apparel,Denver,Colorado,Arapahoe County,50000,3.8,4
+BAX,Baxter International,264,Medical Equipment,Deerfield,Illinois,Lake County,48000,3.8,3.8
+TXT,Textron,265,Aerospace,Providence,Rhode Island,Providence County,35000,3.6,3.8
+LKQ,LKQ,266,Automotive,Chicago,Illinois,Cook County,51000,3.1,3.4
+KDP,Keurig Dr Pepper,267,Food,Burlington,Massachusetts,Middlesex County,25500,3.2,3.4
+ORLY,O'Reilly Automotive,268,Automotive,Springfield,Missouri,Greene County,77654,3.4,3.3
+CCK,Crown Holdings,269,Packaging,Philadelphia,Pennsylvania,Philadelphia County,33264,3.3,3.4
+UHS,Universal Health Services,270,Healthcare,King of Prussia,Pennsylvania,Montgomery County,90000,3,3.1
+DVA,DaVita,271,Healthcare,Denver,Colorado,Arapahoe County,67000,3.3,3.4
+XEL,Xcel Energy,272,Energy,Minneapolis,Minnesota,Hennepin County,11075,3.6,3.8
+NEM,Newmont,273,Metals,Greenwood Village,Colorado,Arapahoe County,14300,4,4.1
+VST,Vistra,274,Energy,Irving,Texas,Dallas County,5365,3.7,4
+IQV,IQVIA Holdings,275,Health Research,Danbury,Connecticut,Fairfield County,88000,3.8,3.9
+EBAY,eBay,276,Ecommerce,San Jose ,California,Santa Clara County,13300,3.9,4.1
+GLW,Corning,277,Materials,Corning,New York,Steuben County,51500,3,3.9
+PWR,Quanta Services,278,Infrastructure Services,Houston,Texas,Harris County,40000,3.8,3.6
+HFC,HollyFrontier,279,Energy,Dallas ,Texas,Dallas County,3891,3.7,3.7
+BBBY,Bed Bath & Beyond,280,Retail,Springfield,New Jersey,Union County,55000,3.5,3.3
+UBER,Uber Technologies,281,Delivery Service,San Francisco,California,San Francisco County,22800,3.7,4
+CAG,Conagra Brands,283,Food,Chicago,Illinois,Cook County,16500,3.6,3.7
+PHM,PulteGroup,284,Construction,Atlanta,Georgia,Cobb County,6000,3.8,4.2
+EOG,EOG Resources,285,Energy: Petroleum,Houston,Texas,Harris County,2900,4,4
+GPI,Group 1 Automotive,286,Car Dealearship,Houston,Texas,Harris County,14200,3,3.2
+ALLY,Ally Financial,287,Financial Services,Detroit ,Michigan,Wayne County,8700,3.6,4.1
+FNF,Fidelity National Financial,288,Financial Services,Jacksonville,Florida,Duval County,23100,3.7,3.8
+JWN,Nordstrom,289,Retail,Seattle,Washington,King County,74000,3.9,3.7
+DISCA,Discovery,290,Mass Media,New York City,New York,New York County,9800,3.8,4.1
+TSCO,Tractor Supply,291,Retail,Brentwood,Tennessee,Williamson County,42000,3.4,3.7
+CSX,CSX,292,Transportation,Jacksonville,Florida,Duval County,20908,3.2,2.6
+MAR,Marriott International,293,Hospitality,Bethesda,Maryland,Montgomery County,121000,4.1,4.1
+FE,FirstEnergy,294,Energy: Electric,Akron,Ohio,Summit County,12153,3.5,3.8
+BWA,BorgWarner,295,Automotive,Auburn Hills,Michigan,Oakland County,50000,3.8,3.9
+RSG,Republic Services,297,Waste Management,Phoenix,Arizona,Maricopa County,35000,3.1,3.5
+HSIC,Henry Schein,298,Health Services,Melville,New York,Suffolk County,19000,3.6,4.1
+EXPD,Expeditors Intl. of Washington,299,Logistics,Seattle,Washington,King County,17400,3.6,3.5
+ETR,Entergy,300,Energy: Electric,New Orleans,Louisiana,Orleans Parish,13504,3.7,3.7
+AAP,Advance Auto Parts,301,Automotive,Raleigh,North Carolina,Wake County,68000,3.4,3.4
+AIZ,Assurant,302,Insurance,New York City,New York,New York County,14250,3.5,3.7
+LRCX,Lam Research,304,Hardware,Fremont,California,Alameda County,14100,3.7,4.2
+BSX,Boston Scientific,305,Medical Equipment,Marlborough,Massachusetts,Middlesex County,36000,3.9,4.2
+ATUS,Altice USA,306,Telecommunications,Long Island City,New York,Nassau County,8900,3.4,3.1
+NSC,Norfolk Southern,307,Transportation,Atlanta,Georgia,Cobb County,20156,2.8,2.2
+SAH,Sonic Automotive,308,Automotive,Charlotte,North Carolina,Mecklenburg County,9750,3.4,3.5
+AMD,Advanced Micro Devices,309,Hardware,Santa Clara,California,Santa Clara County,15500,3.8,4.2
+X,United States Steel,310,Metals,Pittsburgh,Pennsylvania,Allegheny County,23350,3.4,3.5
+MKL,Markel,311,Insurance,Richmond,Virginia,Henrico County,17400,3.6,3.8
+ODP,ODP,312,Retail,Boca Raton,Florida,Palm Beach County,38000,3.2,3.2
+AES,AES,313,Energy,Arlington,Virginia,Arlington County,8000,4,4.3
+TAP.A,Molson Coors Beverage,314,Beverages,Chicago,Illinois,Cook County,17700,3.8,3.8
+JBHT,JB Hunt Transport Services,315,Transportation,Lowell,Arkansas,Benton County,29056,3.3,3.7
+KKR,KKR,316,Financial Services,New York City,New York,New York County,1600,3.7,4.3
+HRL,Hormel Foods,317,Food,Austin,Minnesota,Mower County,20000,3.6,3.7
+PEG,Public Services Enterprise Group,318,Utilites,Newark,New Jersey,Essex County,13000,4.3,4
+STLD,Steel Dynamics,319,Metals,Fort Wayne,Indiana,Allen County,9625,3.8,4
+DKS,Dick's Sporting Goods,320,Retail,Coraopolis,Pennsylvania,Allegheny County,50100,3.4,3.8
+MHK,Mohawk Industries,321,Conglomerate,Calhoun,Georgia,Gordon County,42100,3.5,3.5
+MUSA,Murphy USA,322,Retail,El Dorado,Arkansas,Union County,15000,3.4,3.4
+SQ,Block,323,Financial Services,San Francisco,California,San Francisco County,5477,3.5,4.2
+DGX,Quest Diagnostics,324,Healthcare,Secaucus,New Jersey,Hudson County,47000,3.6,3.5
+NWL,Newell Brands Inc.,325,Consumer Goods,Atlanta,Georgia,Cobb County,31000,3.5,3.4
+BATRA,Liberty Media,326,Mass Media,Castle Rock,Colorado,Douglas County,84,4,4.5
+HII,Huntington Ingalls Industries,327,Defense,Newport News,Virginia,Newport News city,40000,3.7,3.6
+CQP,Cheniere Energy,328,Energy,Houston,Texas,Harris County,1530,3.9,3.9
+SPTN,SpartanNash,329,Retail,Byron Center,Michigan,Kent County,14400,3.3,3.8
+AA,Alcoa,330,Metals,Pittsburgh,Pennsylvania,Allegheny County,14600,3.9,3.8
+AGCO,AGCO,331,Equipment,Duluth,Georgia,Gwinnett County,21000,3.8,3.9
+VOYA,Voya Financial,332,Financial Services,New York City,New York,New York County,6000,3.4,3.8
+NRG,NRG Energy,333,Energy: Electric,Houston,Texas,Harris County,4862,3.8,4
+IPG,Interpublic Group,334,Advertising,New York City,New York,New York County,54000,3.8,4
+CPB,Campbell Soup,335,Food,Camden,New Jersey,Camden County,19000,3.8,3.8
+LUV,Southwest Airlines,336,Airline,Dallas ,Texas,Dallas County,54448,4.3,4.3
+NWSA,News Corp.,337,Mass Media,New York City,New York,New York County,24000,3.8,3.5
+ES,Eversource Energy,338,Utility,Hartford,Connecticut,Hartford County,8100,3.6,3.9
+Y,Alleghany,339,Holding Company,New York City,New York,New York County,4402,3.6,4
+APD,Air Products & Chemicals,340,Chemicals,Allentown,Pennsylvania,Lehigh County,19275,3.8,4
+CNP,CenterPoint Energy,342,Energy,Houston,Texas,Harris County,8000,3.9,3.5
+RS,Reliance Steel & Aluminum,343,Metals,Los Angeles,California,Los Angeles County,12800,4,4.1
+EME,EMCOR Group,344,Construction,Norwalk,Connecticut,Fairfield County,33000,3.2,3.7
+OMI,Owens & Minor,345,Healthcare,Mechanicsville,Virginia,Hanover County,15000,3.1,3.2
+MOS,Mosaic,346,Agriculture,Tampa,Florida,Hillsborough County,13000,3.7,3.8
+ERIE,Erie Insurance,347,Insurance,Erie,Pennsylvania,Erie County,6000,3.9,4.3
+GNW,Genworth Financial ,348,Financial Services,Richmond,Virginia,Henrico County,3000,3.7,3.7
+APH,Amphenol,349,Electronics,Wallingford,Connecticut,New Haven County,74000,3.6,3.4
+BLDR,Builders FirstSource,350,Materials,Dallas ,Texas,Dallas County,15000,3.3,3.4
+OKE,Oneok,351,Energy,Tulsa,Oklahoma,Tulsa County,2684,3.8,4.4
+URI,United Rentals,352,Rental,Stamford,Connecticut,Fairfield County,18800,3.6,3.9
+BHF,Brighthouse Financial,353,Insurance,Charlotte,North Carolina,Mecklenburg County,1400,3.6,4.6
+REGN,Regeneron Pharmaceuticals,354,Pharmaceutical,Eastview,New York,Westchester County,9123,3.7,4.1
+EMN,Eastman Chemical,355,Chemicals,Kingsport,Tennessee,Sullivan County,14500,3.7,3.9
+COMM,CommScope Holding,356,Telecommunications,Hickory,North Carolina,Catawba County,30000,3.7,3.7
+R,Ryder System,357,Transportation,Miami,Florida,Miami-Dade County,39900,3.3,3.7
+FITB,Fifth Third Bancorp,358,Banking,Cincinnati,Ohio,Hamilton County,19846,3.5,3.6
+STZ,Constellation Brands,359,Food,Victor,New York,Ontario County,8700,3.8,3.9
+NSIT,Insight Enterprises,360,IT Services,Tempe,Arizona,Maricopa County,11000,3.6,4
+GLP,Global Partners,361,Energy,Waltham,Massachusetts,Middlesex County,2000,3.6,3.7
+UNVR,Univar Solutions,362,Chemicals,Seattle,Washington,King County,9457,3.3,3.4
+TRGP,Targa Resources,364,Energy,Houston,Texas,Harris County,2372,3.6,3.7
+ICE,Intercontinental Exchange,365,Financial Services,Atlanta,Georgia,Cobb County,8858,3.3,3.7
+ANDE,Andersons ,366,Conglomerate,Maumee,Oho,Lucas County,1819,3.7,3.8
+RJF,Raymond James Financial,367,Financial Services,St. Petersburg,Florida,Pinellas County,18910,3.8,3.9
+THO,Thor Industries,368,RV,Elkhart,Indiana,Elkhart County,22500,3,2.8
+HSY,Hershey,370,Food,Hershey,Pennsylvania,Dauphin County,16140,3.8,4
+CASY,Casey's General Stores,371,Retail,Ankeny,Iowa,Polk County,36841,3.3,3
+WRB,WR Berkley Corporation,372,Insurance,Greenwich,Connecticut,Fairfield County,7448,3.3,3.5
+ATVI,Activision Blizzard,373,Software,Santa Monica,California,Los Angeles County,9500,3.5,3.5
+AMT,American Tower,375,Real Estate,Boston ,Massachusetts,Suffolk County,5454,3.8,3.7
+AFG,American Financial Group,376,Financial Services,Cincinnati,Ohio,Hamilton County,7600,4.2,4
+DRI,Darden Restaurants,377,Food,Orlando,Florida,Orange County,175000,3.8,3.9
+SJM,JM Smucker,378,Food,Orrville,Ohio,Wayne County,7300,3.7,3.7
+INTU,Intuit,380,Software,Mountain View,California,Santa Clara County,10600,4.2,4.5
+CFG,Citizens Financial Group,381,Financial Services,Providence,Rhode Island,Providence County,18100,3.4,3.7
+PPL,PPL,382,Energy,Allentown,Pennsylvania,Lehigh County,5600,3.6,2.9
+NVR,NVR,383,Construction,Reston,Virginia,Fairfax County,5600,3.4,4
+WAB,Westinghouse Air Brake Technologies,384,Equipment,Wilmerding,Pennsylvania,Allegheny County,18000,3.5,3.7
+FL,Foot Locker,385,Retail,New York City,New York,New York County,32175,3.9,3.7
+CINF,Cincinnati Financial,386,Insurance,Cincinnati,Ohio,Hamilton County,4925,3.7,3.9
+WY,Weyerhaeuser,387,Real Estate,Seattle,Washington,King County,9372,3.8,3.8
+WLK,Westlake Chemical,388,Chemicals,Houston,Texas,Harris County,8870,3.7,4
+MGLN,Magellan Health,390,Healthcare,Phoenix,Arizona,Maricopa County,9092,3.5,3.4
+BAH,Booz Allen Hamilton Holding,391,Consulting,McLean,Virginia,Fairfax County,27173,3.9,4.2
+SPGI,S&P Global,393,Financial Services,New York City,New York,New York County,22500,3.9,4.1
+GPN,Global Payments,394,Financial Services,Atlanta,Georgia,Cobb County,24000,3.4,3.6
+MSI,Motorola Solutions,395,Telecommunications,Chicago,Illinois,Cook County,18000,4.1,4
+KEY,KeyCorp,396,Banking,Cleveland,Ohio,Cuyahoga County,16826,3.5,3.8
+DK,Delek US Holdings,397,Energy,Brentwood,Tennessee,Williamson County,3814,2.7,3.1
+MAS,Masco,398,Construction,Livonia,Michigan,Wayne County,26000,3.4,3.9
+WEC,WEC Energy Group,400,Energy,Milwaukee,Wisconsin,Milwaukee County,8000,3.7,3.7
+ORI,Old Republic International,401,Insurance,Chicago,Illinois,Cook County,8700,3.3,3.4
+FYBR,Frontier Communications,402,Telecommunications,Norwalk,Connecticut,Fairfield County,16200,3.2,3
+CHWY,Chewy,403,Ecommerce,Dania Beach,Florida,Broward County,18500,2.7,3.4
+PVH,PVH,404,Apparel,Manhattan,New York,New York County,20000,3.8,3.8
+ABG,Asbury Automotive Group,405,Automotive,Duluth,Georgia,Gwinnett County,8000,3.3,3.7
+SEB,Seaboard,406,Agriculture,Merriam,Kansas,Johnson County,11800,3.7,3.9
+PII,Polaris,407,Automotive,Medina,Minnesota,Hennepin County,15000,3.4,3.7
+DAN,Dana,408,Automotive,Maumee,Ohio,Lucas County,36000,3.5,3.4
+FAF,First American Financial,409,Financial Services,Santa Ana,California,Orange County,19597,3.7,3.7
+CTAS,Cintas Corporation,410,Product Service,Cincinnati,Ohio,Hamilton County,40000,3.3,3.6
+TOL,Toll Brothers,411,Construction,Fort Washington,Pennsylvania,Montgomery County,4500,3.8,3.8
+SAIC,Science Applications International,412,IT Services,Reston,Virginia,Fairfax County,25500,4.5,4.1
+OC,Owens Corning,413,Materials,Toledo,Ohio,Lucas County,19000,3.7,3.8
+ZBH,Zimmer Biomet Holdings,414,Medical Equipment,Warsaw,Indiana,Kosciusko County,18200,3.5,3.6
+XRX,Xerox Holdings,415,IT Services,Norwalk,Connecticut,Fairfield County,24700,3.4,3.3
+AJG,Arthur J. Gallagher,416,Insurance,Rolling Meadows,Illinois,Cook County,31013,3.6,3.6
+AVY,Avery Dennison,417,Materials,Glendale,California,Los Angeles County,32000,3.9,4
+SANM,Sanmina,418,Electronics,San Jose ,California,Santa Clara County,40000,3.6,3.4
+JEF,Jefferies Financial Group,419,Conglomerate,New York City,New York,New York County,4100,3.7,4
+BECN,Beacon Roofing Supply,420,Materials,Herndon,Virginia,Fairfax County,7582,2.9,3.8
+OSK,Oshkosh Corporation,422,Automotive,Oshkosh,Wisconsin,Winnebago County,16000,3.7,4
+BKNG,Booking Holdings,424,Software,Norwalk,Connecticut,Fairfield County,19400,3.7,3.2
+WSM,Williams-Sonoma,425,Retail,San Francisco,California,San Francisco County,28200,3.5,3.2
+COTY,Coty Inc.,426,Consumer Goods,New York City,New York,New York County,20000,3.7,3.3
+CLX,Clorox,427,Consumer Goods,Oakland,California,Alameda County,9000,4,4
+PXD,Pioneer Natural Resources,428,Energy,Irving,Texas,Dallas County,1853,4.2,3.4
+DOV,Dover,429,Conglomerate,Downers Grove,Illinois,DuPage County,23000,3.5,3.8
+CMS,CMS Energy,430,Energy,Jackson,Michigan,Jackson County,8148,3.8,3.4
+ZTS,Zoetis,431,Pharmaceutical,Parsippany,New Jersey,Morris County,11300,3.7,3.9
+HBI,Hanesbrands,432,Apparel,Winston-Salem,North Carolina,Forsyth County,61000,3.7,3.7
+PKG,Packaging Corp. of America,433,Packaging,Lake Forest,Illinois,Lake County,15500,3.4,3.8
+RF,Regions Financial,434,Financial Services,Birmingham,Alabama,Jefferson County,20000,3.6,3.5
+GPK,Graphic Packaging Holding,435,Packaging,Atlanta,Georgia,Cobb County,18000,3.1,3.2
+UGI,UGI,436,Energy,King of Prussia,Pennsylvania,Montgomery County,7700,3.6,4.6
+SFM,Sprouts Farmers Market,437,Retail,Phoenix,Arizona,Maricopa County,35000,3,3.1
+AVTR,Avantor,438,Biotechnology,Radnor,Pennsylvania,Delaware County,12400,3.3,3.2
+VRTV,Veritiv,439,Paper,Atlanta,Georgia,Cobb County,6400,3.2,3.7
+ROK,Rockwell Automation,440,Hardware,Milwaukee,Wisconsin,Milwaukee County,24500,3.9,3.9
+MTZ,MasTec,441,Construction,Coral Gables,Florida,Miami-Dade County,17300,3,3.6
+DPM,DCP Midstream,442,Energy,Denver,Colorado,Arapahoe County,2650,3.5,3.4
+NTRS,Northern Trust,443,Financial Services,Chicago,Illinois,Cook County,20000,3.8,3.9
+MTB,M&T Bank,444,Financial Services,Buffalo,New York,Erie County,16840,3.6,3.7
+RLGY,Realogy Holdings,445,Real Estate,Madison,New Jersey,Morris County,9435,3.4,3.7
+NCR,NCR,446,IT Services,Atlanta,Georgia,Cobb County,36000,3.6,3.6
+TROW,T. Rowe Price,447,Investment Management,Baltimore,Maryland,Baltimore County,7678,3.6,3.8
+VRTX,Vertex Pharmaceuticals,448,Pharmaceutical,Boston ,Massachusetts,Suffolk County,3400,3.7,4.1
+BIG,Big Lots,449,Retail,Columbus,Ohio,Franklin County,34000,3.4,3.2
+RL,Ralph Lauren,450,Apparel,New York City,New York,New York County,18250,3.8,3.8
+ULTA,Ulta Beauty,451,Consumer Goods,Bollingbrook,Illinois,Will County,37000,3.4,3.5
+TMHC,Taylor Morrison,452,Construction,Scottsdale,Arizona,Maricopa County,2300,3.5,4.6
+IEP,Icahn Enterprises,453,Conglomerate,Sunny Isles Beach,Florida,Miami-Dade County,2159,3.5,4.5
+BX,Blackstone Group,454,Financial Services,New York City,New York,New York County,3165,3.6,4
+OI,Owens Illinois,455,Materials,Perrysburg,Ohio,Wood County,25000,3.8,3.8
+FBHS,Fortune Brands Home & Security,456,Home & Security,Deerfield,Illinois,Lake County,27500,4.3,4.2
+NOV,NOV,457,Equipment,Houston,Texas,Harris County,27631,3.9,3.5
+OVV,Ovintiv,458,Energy,Denver,Colorado,Arapahoe County,1916,4,3.4
+ALXN,Alexion Pharmaceuticals,459,Pharmaceutical,Boston ,Massachusetts,Suffolk County,2525,3.6,3.8
+HUN,Huntsman,460,Chemicals,The Woodlands,Texas,Montgomery County,9000,3.9,3.9
+EQIX,Equinix,461,Hardware,Redwood City,California,San Mateo County,10013,3.7,4.2
+ABM,ABM Industries,462,Facility Management,New York City,New York,New York County,140000,3.2,3.1
+INGR,Ingredion,463,Food,Westchester,Illinois,Cook County,12000,3.7,3.8
+CMG,Chipotle Mexican Grill,464,Food,Newport Beach,California,Orange County,64570,3.6,3.4
+SBGI,Sinclair Broadcast Group,465,Telecommunications,Hunt Valley,Maryland,Baltimore County,8400,2.9,3.1
+LPLA,LPL Financial Holdings Inc.,466,Financial Services,San Diego,California,San Diego County,4658,3.6,3.8
+CCI,Crown Castle International,467,Real Estate Communications,Houston,Texas,Harris County,4500,3.8,3.6
+KLAC ,KLA,468,Hardware,Milpitas,California,Santa Clara County,11300,4,3.9
+AEE,Ameren,469,Energy,St. Louis,Missouri,St. Louis County,8615,3.7,4.2
+KBR,KBR,470,Defense,Houston,Texas,Harris County,28000,4.1,3.8
+BURL,Burlington Stores,471,Retail,Burlington,New Jersey,Burlington County,40000,3.3,3.2
+OLN,Olin,472,Chemicals,Clayton,Missouri,St. Louis County,6400,3.4,3.2
+CACI,CACI International,473,IT Services,Reston,Virginia,Fairfax County,20000,3.8,3.8
+POST,Post Holdings,474,Food,St. Louis,Missouri,St. Louis County,11410,3.9,3.3
+ASO,Academy Sports and Outdoors,475,Retail,Katy,Texas,Harris County,23000,3.4,3.3
+ARNC,Arconic,476,Metals,Pittsburgh,Pennsylvania,Allegheny County,13400,2.8,3.4
+CE,Celanese,477,Chemicals,Irving,Texas,Dallas County,7714,3.8,3.8
+YUM,Yum Brands,478,Food,Louisville,Kentucky,Jefferson County,34000,3.7,3.9
+FAST,Fastenal,479,Distribution,Winona,Minnesota,Winona County,2227,3.3,3.6
+NDAQ,Nasdaq,480,Financial Services,New York City,New York,New York County,4830,3.7,4
+ADI,Analog Devices,481,Electronics,Wilmington,Massachusetts,Middlesex County,15300,3.9,4
+MKC,McCormick,482,Food,Hunt Valley,Maryland,Baltimore County,13000,3.7,3.8
+CVNA,Carvana,483,Ecommerce,Tempe,Arizona,Maricopa County,10400,2.7,3.5
+BEN,Franklin Resources,484,Financial Services,San Mateo,California,San Mateo County,11800,4,3.9
+EA,Electronic Arts,485,Software,Redwood City,California,San Mateo County,9800,3.8,4
+MDU,MDU Resources Group,486,Energy,Bismark,North Dakota,Burleigh County,10140,4.2,3.3
+SEM,Select Medical Holdings,487,Healthcare,Mechanicsburg,Pennsylvania,Cumberland County,47596,3.1,3.6
+ROP,Roper Technologies,488,Conglomerate,Sarasota,Florida,Sarasota County,18400,3.6,3.5
+RPM,RPM International,489,Materials,Medina,Ohio,Medina County,14600,3.2,3.2
+CERN,Cerner,490,Healthcare,Kansas City,Missouri,Jackson County,26400,3.5,3.7
+PDCO,Patterson,491,Medical Equipment,Mendota Heights,Minnesota,Dakota County,7500,3.3,4
+CMC,Commercial Metals,492,Metals,Irving,Texas,Dallas County,11297,3.7,3.8
+BCC,Boise Cascade,493,Materials,Boise,Idaho,Ada County,6010,3.5,3.9
+HAS,Hasbro,494,Entertainment,Pawtucket,Rhode Island,Providence County,5600,4.2,3.7
+AMRK,A-Mark Precious Metals,495,Metals,El Segundo,California,Los Angeles County,220,2.6,2.6
+CWH,Camping World Holdings,496,Retail,Lincolnshire,Illinois,Lake County,11835,2.8,3.2
+NTAP,NetApp,497,Hardware,Sunnyvale,California,Santa Clara County,10500,4.1,4.1
+CAR,Avis Budget Group,498,Rental,Parsippany,New Jersey,Morris County,30000,3.5,3.5
+RRD,RR Donnelley & Sons,499,Printing,Chicago,Illinois,Cook County,33000,3.5,3.3
+MCO,Moody's,500,MCO,New York City,New York,New York County,11490,3.7,3.7
